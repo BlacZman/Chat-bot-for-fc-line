@@ -1,0 +1,89 @@
+{
+    "storage": [
+        {
+            "id": 100003122395297,
+            "recipe-custom": []
+        },
+        {
+            "id": 100001707568493,
+            "recipe-custom": []
+        }
+    ],
+    "recipe-default": [
+        {
+            "name": "steak",
+            "ingredient": [
+                "salt",
+                "pepper",
+                "olive oil",
+                "thyme",
+                "garlic",
+                "mint",
+                "butter",
+                "red wine vinegar"
+            ],
+            "procedure": [
+                "throw all of them in the hot pan",
+                "season it with salt and pepper",
+                "good smell",
+                "Add mint to smell good",
+                "Not good with vegeterian"
+            ]
+        },
+        {
+            "name": "tom_yum_goong",
+            "ingredient": [
+                "4  Shrimp, peeled",
+                "1 \u00bd C  Chicken stock",
+                "5 slices  Galangal ginger",
+                "1 stalks  Lemongrass",
+                "2-3  Kaffir leaves, torn",
+                "1 stalk  Coriander root crushed",
+                "3-5  Mushrooms, cut",
+                "1 each  Tomatoes cut into cubes",
+                "\u00bc  Onion",
+                "2 stalks  Coriander leaves",
+                "1 Stalk  Spring onion",
+                "1 stalk  Saw coriander leaves",
+                "1-3  Bird eye chili peppers crushed",
+                "1  Tbs.  Fish sauce",
+                "1  lime  Lime juice",
+                "1  Tbs.  Tamarind paste",
+                "1  Tbs.  Thai chili paste",
+                "3-4 Tbsp.  Coconut milk or Carnation milk"
+            ],
+            "procedure": [
+                "In a pot, add chicken stock and bring to the boil. Then add all herbs, chili, lemongrass,  kaffir leaves, galangal, mushrooms and continue to boil.  Let boil for 3-5 minutes.",
+                "Add shrimp ,onion, tomato\u201a  cook until shrimps turn pink\u201a  add saw coriander, coriander leaves and spring onion",
+                "Turn off the heat\u201a then add, then add coconut milk + Thai chili paste and seasoning  with fish sauce, sugar, tamarind paste and lime juice."
+            ]
+        },
+        {
+            "name": "clear_vegetable_soup",
+            "ingredient": [
+                "\u00bc C  Minced chicken",
+                "1 t  Oyster sauce",
+                "Sprinkle   Pepper powder",
+                "1  Egg tofu",
+                "\u00bc C  Seaweed",
+                "\u00bc C  Glass noodle",
+                "1  Spring onion",
+                "1  Coriander root & leaves",
+                "1-2 cloves  Garlic",
+                "1 \u00bd C  Chicken stock",
+                "Optional  Leafy green of your choice",
+                "2 t  Light soy sauce",
+                "Pinch of Salt",
+                "Sprinkle  Pepper powder"
+            ],
+            "procedure": [
+                "In a mixing bowl, combine minced chicken, pepper powder and oyster sauce, mix well.",
+                "Bring chicken stock to a boil.  Then add garlic and coriander root.",
+                "Add minced chicken and cook for 2-3 minutes.",
+                "Add glass noodle, egg tofu, and season with soy sauce, salt and pepper powder.",
+                "Transfer to serving bowl, sprinkle with coriander leaves, spring onion, and pepper powder."
+            ]
+        }
+    ],
+    "V": "0.7.0"
+}
