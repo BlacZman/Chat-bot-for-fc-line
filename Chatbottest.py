@@ -158,7 +158,14 @@ class Somchai(Client):
                         self.markAsDelivered(author_id, thread_id)
             else:
                 ckas = Cook()# Create Cook object
-                linkCk = ckas.start(msgtext,author_id)
+                try:
+                    newAc = obj['result']['action']
+                except:
+                    newAc = 
+                if newAc == "cook.list.all" or newAc == "cook.list.custom" or newAc == "cook.list.default":
+                    linkCk = ckas.start(reply,author_id)
+                else:
+                    linkCk = ckas.start(msgtext,author_id)
                 if linkCk == 1:
                     log.info("=====>" + author_id)
                     self.send(Message(text=reply), thread_id=thread_id, thread_type=thread_type)

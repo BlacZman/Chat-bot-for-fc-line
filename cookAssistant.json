@@ -5,31 +5,23 @@
             "recipe-custom": []
         },
         {
-            "id": 100001707568493,
+            "id": 100003122395298,
+            "recipe-custom": []
+        },
+        {
+            "id": 100001881653088,
+            "recipe-custom": []
+        },
+        {
+            "id": 100001975178377,
+            "recipe-custom": []
+        },
+        {
+            "id": 100003773774670,
             "recipe-custom": []
         }
     ],
     "recipe-default": [
-        {
-            "name": "steak",
-            "ingredient": [
-                "salt",
-                "pepper",
-                "olive oil",
-                "thyme",
-                "garlic",
-                "mint",
-                "butter",
-                "red wine vinegar"
-            ],
-            "procedure": [
-                "throw all of them in the hot pan",
-                "season it with salt and pepper",
-                "good smell",
-                "Add mint to smell good",
-                "Not good with vegeterian"
-            ]
-        },
         {
             "name": "tom_yum_goong",
             "ingredient": [
@@ -83,7 +75,1014 @@
                 "Add glass noodle, egg tofu, and season with soy sauce, salt and pepper powder.",
                 "Transfer to serving bowl, sprinkle with coriander leaves, spring onion, and pepper powder."
             ]
+        },
+        {
+            "name": "spicy_chicken_salad",
+            "ingredient": [
+                "70 g  Cooked minced chicken",
+                "1 Tbs.  Toasted  sticky rice",
+                "2 -3  Shallots, finely sliced",
+                "\u00bd tsp.  Ground dried chili pepper",
+                "1 stalk  Spring onion (scallion), finely sliced",
+                "2 leaves  Thai coriander, finely sliced",
+                "5-8 leaves  Mint leaves (garnish)",
+                "\u00bc  Cup  Chicken stock",
+                "1   Lime juice",
+                "1 Tbs.  Fish sauce",
+                "\u00bd  tbs.  Sugar"
+            ],
+            "procedure": [
+                "Heat up oil in grill pan then grill marinated chicken until well cooked.",
+                "Slide chicken in small piece.",
+                "In a large bowl or pot , mix the chicken, seasoning, Spring onion, shallots, coriander, dressing , ground chili pepper and most of the toasted rice.",
+                "Place in a serving bowl and garnish with mint leaves.",
+                "Serve with fresh vegetables."
+            ]
+        },
+        {
+            "name": "papaya_salad",
+            "ingredient": [
+                "1 C  Green papaya, shredded",
+                "\u00bc C  Carrots, shredded",
+                "1  Green bean (long bean), cut in 1 inch lengths",
+                "1-2  Bird\u2019s eye chili",
+                "2-3  Tomatoes, halved",
+                "1 T  Peanuts, roasted (optional)",
+                "1 T  Fish sauce",
+                "1 lime  Lime juice",
+                "\u00bd  T  Palm sugar",
+                "1 T  Tamarind juice",
+                "1-2 cloves  Garlic",
+                "1 T  Dried shrimp"
+            ],
+            "procedure": [
+                " Shred the papaya and carrots, but not the center (where the seeds are).",
+                " In a clay mortar, smash the garlic and chili, then add green beans and halved cherry tomatoes.  Add quartered lime, peanuts, and dried shrimp and briefly pound.",
+                "Add seasoning and green papaya and carrots.  Mix well with pestle.",
+                "Serve with cabbage and green beans."
+            ]
+        },
+        {
+            "name": "glass_noodle_salad",
+            "ingredient": [
+                "1 T + 1 \u00bd t  Fish sauce",
+                "2 Limes  Lime juice",
+                "1 \u00bd t  Palm sugar",
+                "1-2  Garlic",
+                "1-2  Chilies",
+                "1  Coriander root",
+                "\u00bd C  Mung bean noodles, soaked and soft",
+                "50 g  Minced chicken",
+                "2  Shrimp , boiled",
+                "\u00bd   Tomato, sliced",
+                "\u00bd   Onion (wedge)",
+                "2  stalks  Chinese celery (cut in 1 inch lengths)",
+                "1 T  Roasted peanuts",
+                "1 stalk  Spring onion"
+            ],
+            "procedure": [
+                "Pound chili , garlic and coriander root in a mortar.",
+                "Prepare the dressing- mix lime juice, fish sauce, and palm sugar well, then add  garlic mixture.",
+                "Boil minced chicken, glass noodle, and shrimp.",
+                "Place 2 & 3 in mixing bowl, add onion, celery , tomatoes and  toss gently.",
+                "Place the salad on a bed of lettuce.  Sprinkle with the coriander leaf."
+            ]
+        },
+        {
+            "name": "tom_kha_gai",
+            "ingredient": [
+                "50 g.  Chicken , sliced",
+                "2-3  Mushrooms, cut into quarters",
+                "2 stalks  Lemongrass, cut in 1 inch lengths at an angle crushed",
+                "5   Galangal ginger, finely sliced",
+                "1-2   Kaffir leaves, torn",
+                "1 root  Coriander root, crushed",
+                "\u00bd tsp  Bird\u2019s eye chilies, finely sliced",
+                "1  Clove  Shallot",
+                "1/2  Cup  Coconut milk",
+                "1/2 Cup  Coconut cream",
+                "1/2  lime  Lime juice",
+                "1  tsp.  Fish sauce",
+                "1 tbs.  Sugar"
+            ],
+            "procedure": [
+                "Heat coconut milk.  After foaming hot, add galangal, lemongrass, coriander root, shallot,  and kaffir leaves.  Simmer for 5 minutes until it fragrance.",
+                "Add chicken until nearly cooked.",
+                "Add coconut cream and bring to a boil.",
+                "Add the sliced mushrooms and chilies and kaffir lime leaves.",
+                "Season with sugar and fish sauce, turn off the heat and  add lime juice.",
+                "Transfer to the serving bowl. Garnish with coriander leave and drops of chili oil."
+            ]
+        },
+        {
+            "name": "sweet_and_sour_vegetables_with_chicken",
+            "ingredient": [
+                "50 g   Chicken, sliced",
+                "25g .  Pineapple, diced",
+                "\u00bd   Cucumber, diced",
+                "1-2  Garlic, chopped",
+                "5-8  Mushrooms, sliced",
+                "1  Baby corn, sliced",
+                "\u00bc  White onion, cut fine",
+                "1  Spring onion, cut in 1 inch lengths",
+                "\u00bd  Tomatoes, diced",
+                "\u00bc C   Chicken stock",
+                "2Tbs.   Vegetable oil",
+                "Tbs.  Ketchup",
+                "\u00bd  Tbs.  Palm sugar",
+                "1/2 Tbs.  Vinegar",
+                "Tbs.  Fish sauce",
+                "\u00bd  Fresh lime"
+            ],
+            "procedure": [
+                "Put vegetable oil in the wok with garlic , fry until fragrant.",
+                "Add chicken, fry until nearly cooked then add pine apple.",
+                "Add all remaining ingredients and mixture sauce and continue to stir-fry over high heat."
+            ]
+        },
+        {
+            "name": "stir_fried_vegetables_in_oyster_sauce",
+            "ingredient": [
+                "50 g  Carrot, sliced",
+                "50g  Broccoli, sliced",
+                "50g  Pumpkin, sliced",
+                "50g  Mushroom, sliced",
+                "50g  Red Bell pepper",
+                "1 clove  Garlic",
+                "\u00bd C  Chicken stock",
+                "1 T   Mushroom sauce",
+                "1\u00bd t  Light soy sauce",
+                "\u00bd t  Sugar",
+                "Sprinkle  White pepper powder"
+            ],
+            "procedure": [
+                "Add 1 T vegetable oil to wok then add garlic and pumpkin, heat until fragrant.",
+                "Then add all vegetables, chicken stock and then add seasoning sauce, stir-fry until cooked.",
+                "Transfer to serving dish."
+            ]
+        },
+        {
+            "name": "stir_fried_morning_glory",
+            "ingredient": [
+                "1 T  salted soybean paste",
+                "1 t  fish sauce",
+                "1 T  oyster sauce",
+                "\u00bd t  sugar",
+                "1/4 cup    chicken broth",
+                "4 cloves garlic",
+                "2-4    red bird\u2019s eye chilies",
+                "15  Morning Glory"
+            ],
+            "procedure": [
+                "Wash  morning glory, cut it into 3-inch long pieces, drain it very well, and place it in a large bowl. Crushed garlics and chilies set a side.",
+                "Set the wok over high heat. Once the wok is hot, add  vegetable oil.",
+                "Once the oil begins to smoke, dump the vegetable and the seasonings into the wok.",
+                "Stir quickly to coat the vegetable with the oil and the sauce; it should take less than a minute for the vegetable to be tender-crisp and thoroughly coated with the sauce.",
+                "Once that happens, transfer the stir-fry from the wok to serving plate immediately. Do not allow the stir-fry to stay in the wok beyond that point as the residual heat will continue to cook the vegetable beyond the tender-crisp stage."
+            ]
+        },
+        {
+            "name": "stir_fried_chicken_with_basil",
+            "ingredient": [
+                "50 g.  Minced  chicken, or sliced",
+                "1-2 cloves  Garlic, chopped",
+                "\u00bc   White onion, sliced thinly",
+                "1  Red or Yellow spur chili.",
+                "1-3 seeds  Bird eye chilies, chopped",
+                "7-10 Hot basil leaves",
+                "1  Long beans, sliced into 1 inch lengths",
+                "1  Baby corn, sliced",
+                "2 Tbs.  Vegetable oil",
+                "\u00bc Cup  Chicken stock",
+                "1 t.  Soy sauce",
+                "1 Tbs.  Oyster sauce",
+                "1 t.  Sugar",
+                "\u00bc t.  Dark soy sauce ( for color)"
+            ],
+            "procedure": [
+                "Add oil to the wok with garlic and chilies.  Stir-fry until have great spicy fragrance.",
+                "Add chicken,  Continue until chicken turn white or it cooked.",
+                "Add long beans, baby corn, onion and chicken stock.  Stir until tender.",
+                "Add all the seasoning ingredients, then add basil leaves at the end."
+            ]
+        },
+        {
+            "name": "chicken_with_cashew_nuts",
+            "ingredient": [
+                "50 g  Chicken, sliced",
+                "1 Tbs.  Cashews, fried",
+                "1-2 cloves.  Garlic, chopped",
+                "3-4  Dried red spur chilies, sliced in 1 inch lengths,fried",
+                "3-5  Mushrooms, quartered",
+                "1  Baby corn, sliced",
+                "\u00bc  Onion, large, cubed",
+                "\u00bc   Bell peepers",
+                "1 stalk  Spring onion, cut in 1 inch lengths",
+                "1 tsp.  Soy sauce",
+                "1  tsp.  Sugar",
+                "1  Tbs.  Oyster sauce",
+                "2  Tbs.  Vegetable oil",
+                "1  Tbs.  Chili paste",
+                "1/3 cup  Chicken stock"
+            ],
+            "procedure": [
+                "Add the vegetable oil in a wok with garlic , fry until fragrant the add chicken and half chicken stock stir until done.",
+                "And then add baby corn, mushrooms, onion and chicken stock , continue stir, and add all seasoning sauce and stir regularly.",
+                "Add spring onion , dried spur chilies and cashew nuts , stir quickly .",
+                "Remove from heat and serve with rice."
+            ]
+        },
+        {
+            "name": "black_pepper_beef",
+            "ingredient": [
+                "50 g.  Beef, sliced",
+                "\u00bc  clove  Onion slice",
+                "\u00bd T /color  Bell peppers (red and yellow), cubed and seedless",
+                "1 stalk  Spring onion , cut into 1 inch lengths",
+                "1 stalk  Chinese celery, cut into 1 inch lengths",
+                "\u00bd Cup  Chicken stock",
+                "1 T  Vegetable oil",
+                "1 tsp.  Sweet dark soy sauce, as needed",
+                "1 Tbs.  Oyster sauce",
+                "1 tsp   White sugar",
+                "1 clove  Garlic",
+                "1 Tsp  Light soy sauce",
+                "1 \u00bd  tsp.  Black pepper corn crushed"
+            ],
+            "procedure": [
+                "Prepare the marinade , add the beef and leave for 15 - 30 minutes (or overnight).",
+                "Add 1 tbsp vegetable oil to wok then add garlic, onion, heat then add marinated beef, bell pepper , then chicken stock, stir-fry until cooked.",
+                "Add spring onion, chines celery stir to mix well and turn off the heat.",
+                "Transfer to serving dish."
+            ]
+        },
+        {
+            "name": "pad_thai",
+            "ingredient": [
+                "60 g  Rice noodles, soaked and soft",
+                "2-3  Shrimp , peeled",
+                "1 t  Shrimp, dried",
+                "1  Egg",
+                "1 T  Shallot, minced",
+                "2 T  Vegetable oil",
+                "1-2 Stalk  Chinese chives, cut into 1 inch lengths",
+                "\u00bd C  Raw bean sprouts",
+                "1 T  Roasted peanut",
+                "1 T  Pickled white radish, minced",
+                "\u00bc C  Firm  Tofu, diced",
+                "1 Lime, quartered on the side",
+                "\u00bc C  Water",
+                "Pinch Red chili powder, dried & ground on the side",
+                "1Tbs.  Fish sauce",
+                "1Tbs .  Palm sugar",
+                "1 Tbs.  Tamarind paste",
+                "1 Tbs.  Chili sauce",
+                "1 t.  Tomatoes sauce",
+                "Chili powder"
+            ],
+            "procedure": [
+                "In a wok, heat the oil and shallots. Fry until fragrant.",
+                "Add prawn and tofu, stir-fry for 1 minute.",
+                "Add noodles and chicken stock, stir-fry until the noodle soft.",
+                "Add the seasoning sauce, dried shrimp and pickle radish onto noodles and stir-fry until almost dry.",
+                "Stir fry all ingredients together with bean sprouts and Chinese chives.Push all the ingredients to the front of wok.",
+                "Add oil and beaten egg, stir frying to make a\u00c2  sheet on medium heat. Sprinkle with ground peanuts.",
+                "Serve with lime wedge, ground peanuts , sugar , chili powder , fresh bean sprouts and Chinese chive."
+            ]
+        },
+        {
+            "name": "pineapple_fried_rice",
+            "ingredient": [
+                "\u00bc C  Chicken, sliced and fried",
+                "1 T  Raisins",
+                "1 slice  Pork sausage",
+                "\u00bd C  Pineapple, cut into medium cubes",
+                "1  Onion, white and cut into medium cubes",
+                "\u00bc C  Tomato, sliced",
+                "1 T  Cashew nuts, fried",
+                "1 t  Curry powder",
+                "2 cloves  Garlic, peeled and chopped",
+                "Salt  as needed",
+                "1 t  Soy sauce",
+                "\u00bd t  Sugar",
+                "1 stalk  Coriander leaf",
+                "1 T  Cooking oil or butter",
+                "1 C  Cooked rice",
+                "1 stalk  Spring onion, sliced into \u00bd inch lengths fine slide"
+            ],
+            "procedure": [
+                "Add cooking oil in a wok on medium low heat, add curry powder, garlic, and onion.  stirring constantly.",
+                "Add chicken to stir-fry until nearly cooked.",
+                "Add cooked rice, continue stirring the rice, then add sausage, raisins,  pineapple, cashew nuts & tomato, mix thoroughly and add salt, soy sauce, oyster  sauce, and sugar.  Stir to combine on high heat.",
+                "Transfer to serving dish and sprinkle with coriander leave and spring onion."
+            ]
+        },
+        {
+            "name": "pad_see_ew",
+            "ingredient": [
+                "\u00bc C  Chicken/pork, sliced",
+                "100 g  Wide flat rice noodles",
+                "1 Garlic chopped",
+                "2-3 stalk  Chinese kale",
+                "4-5 slice  Carrot fine sliced",
+                "1  Chicken egg",
+                "1 Tbsp  Oyster sauce",
+                "Pinch  Pepper powder",
+                "\u00bd Tbsp  Light soy sauce",
+                "1 tsp  Sugar"
+            ],
+            "procedure": [
+                "In a wok, heat oil and add garlic.  Fry until fragrant.",
+                "Add chicken, stir well then add vegetables and add 1 tea spoon of oil crack the egg and cooked the egg.",
+                "Add noodles and stir to mix well.  Add seasoning, stir and turn regularly until done."
+            ]
+        },
+        {
+            "name": "thai_noodles_soup",
+            "ingredient": [
+                "50 g Sliced pork and pork balls",
+                "70 g Rice noodles",
+                "300 ml Chicken stock",
+                "5 slices White radish",
+                "1-2 stalks Coriander root (crushed)",
+                "2 stalks Chinese celery",
+                "100 g Bean sprouts and lettuce",
+                "1 clove Garlic",
+                "2 T Light soy sauce",
+                "1 t Sugar",
+                "1 t Fried garlic (optional)",
+                "\u00bd t White pepper powder (optional)",
+                "Red chili powder",
+                "Vinegar",
+                "Fish sauce",
+                "Sugar"
+            ],
+            "procedure": [
+                "Put chicken stock into pot and bring to a boil.",
+                "Add to boiling chicken stock, crushed garlic, crushed coriander root, and white radish. Boil for 3 minutes.",
+                "Add sliced pork and pork balls, light soy sauce, and sugar. Boil until pork is cooked.",
+                "Add rice noodles and cook for 2 minutes. Then add bean sprouts and lettuce.",
+                "Cook another 2 minutes and turn off heat. Ready to serve",
+                "Garnish with Chinese celery, fried garlic, and white popper powder.",
+                "Serve to taste with red chili powder, white vinegar, sugar & fish sauce."
+            ]
+        },
+        {
+            "name": "banana_in_coconut_milk",
+            "ingredient": [
+                "1 C  Coconut milk",
+                "\u00bd C  Coconut cream",
+                "3  Whole Bananas",
+                "2 T  Sugar",
+                "1/3 C   Salt",
+                "1-2   Pandanus leaves"
+            ],
+            "procedure": [
+                "Peel and cut bananas into quarters.",
+                "Boil banana and coconut milk on low heat for 3 min while stirring.",
+                "Add pandanus leaves, sugar, and salt, let simmer, stir constantly.",
+                "Add coconut cream and turn off heat, serve while hot."
+            ]
+        },
+        {
+            "name": "mango_with_coconut_sticky_rice",
+            "ingredient": [
+                "1 Cup  Sticky rice, cooked",
+                "\u00bc cup  Sugar",
+                "\u00bc tsp  Salt",
+                "\u00bd  Cup  Coconut milk",
+                "\u00bd Cup   Coconut cream",
+                "1-2 leaves  Pandanus leaves",
+                "1  Mango, ripe, peeled, and chilled"
+            ],
+            "procedure": [
+                "Warm coconut milk, stir constantly, let simmer.",
+                "Add sugar and salt.  Stir constantly.",
+                "Remove from heat and pour over sticky rice.(Let sticky rice absorb coconut milk for 15 minutes.)",
+                "Serve with sliced, chilled mango."
+            ]
+        },
+        {
+            "name": "deep_fried_bananas",
+            "ingredient": [
+                "3  Thai bananas",
+                "\u00bd cup  All purpose flour",
+                "\u00bd  cup  Rice flour",
+                "1  T Sugar",
+                "1  T Sesame seed",
+                "\u00bc  t  Salt",
+                "1/3 cup  Coconut, grated",
+                "2/3 cup  Lime stone water"
+            ],
+            "procedure": [
+                "Peel bananas and slice lengthwise.",
+                "In bowl add flours, sesame seeds, sugar, and grated coconut. Mixed well then add lime stone water mix\u00c2  well together.",
+                "Dip bananas in batter and then deep fry with hot oil.",
+                "Serve hot with ice cream or cream."
+            ]
+        },
+        {
+            "name": "yellow_curry_with_chicken",
+            "ingredient": [
+                "50 g.  Chicken, sliced",
+                "1-2 Tbs.  Yellow curry paste",
+                "1 \u00bd Tbs. Cooking oil",
+                "\u00be Cup  Coconut cream",
+                "\u00bd Cup  Coconut milk",
+                "50 g.  Potato, (cubed & boiled)",
+                "30 g.  Onion, cubed",
+                "\u00bd Tbs.  Palm sugar",
+                "1 Tbs.  Fish sauce"
+            ],
+            "procedure": [
+                "Put oil in wok and add 1 T of yellow curry paste, stir vigorously until fragrant.",
+                "Add coconut cream and stir well until fat separates (oil rises to top)",
+                "Add chicken and fry for about 1 minute.",
+                "Add coconut milk, onion , potato, seasoning with palm sugar and fish sauce.",
+                "Stir constantly until chicken is cooked.",
+                "Serve over rice and enjoy!"
+            ]
+        },
+        {
+            "name": "red_curry_with_chicken",
+            "ingredient": [
+                "60 g.  Chicken breast, sliced",
+                "1-2 Tbs.  Red curry paste",
+                "1  Thai eggplants cut into quarters",
+                "5-8  pea eggplants",
+                "1-2  Kaffir leaves, sliced",
+                "5-10 leaves  Sweet basil",
+                "1  Red chili pepper for garnish",
+                "1/2  Cup  Coconut cream",
+                "1  Cup  Coconut milk",
+                "2  Tbs.  Vegetable oil",
+                "\u00bd  Tbs.  Palm sugar",
+                "1  Tbs.  Fish sauce"
+            ],
+            "procedure": [
+                "Heat oil in wok and add 1-2 tbsp of red curry paste , stir until fragrant add coconut cream, stir vigorously until fragrant and until fat separates (red oil comes to the top)",
+                "Add chicken and  stir until nearly cooked, adding more coconut milk.",
+                "Wait until boiling add pea eggplants and eggplants. Seasoning with  fish sauce, palm sugar and bring to a boil on medium heat.",
+                "Add sweet basil leaves, kaffir limes leaves and stir together.",
+                "Remove from heat garnish red chili & sweet basil over and serve with jasmine rice."
+            ]
+        },
+        {
+            "name": "panang_curry_with_pork",
+            "ingredient": [
+                "50 g  pork, sliced",
+                "1 - 2 Tbs.  Panang curry paste",
+                "2  Kaffir leaves, shredded",
+                "5 - 8  Pea eggplants",
+                "As needed  Red chilies, sliced",
+                "1  Cup  Coconut cream",
+                "\u00bd  Cup  Coconut milk",
+                "1 - 2  Tbs.  Cooking oil",
+                "\u00bd Tbs.  Palm sugar",
+                "1  Tbs.  Fish sauce"
+            ],
+            "procedure": [
+                "Put oil in wok and add 1-2 tbsp of panang curry paste, stir vigorously until fragrant.",
+                "Add coconut cream and combine, heat until fat separates (oil on top).",
+                "Add pork and stir-fried in a paste and wait nearly cook then add coconut milk and bring to boil.",
+                "Add coconut milk, kaffir leaves, sugar, and pea eggplants seasoning with palm sugar and fish sauce.",
+                "Stir constantly until chicken and eggplants are cooked.",
+                "Transfer to the serving blow , add sliced red chilies and kaffir leave for garnish."
+            ]
+        },
+        {
+            "name": "khao_soy_with_chicken",
+            "ingredient": [
+                "\u00bc C  Chicken, sliced",
+                "2 T  Khao soy curry paste",
+                "2 T  Cooking oil",
+                "\u00be C  Coconut cream",
+                "\u00bd C  Coconut milk",
+                "1 tsp  Soy sauce",
+                "\u00bd tsp  Fish sauce",
+                "Pince   Palm sugar",
+                "1 Lime (optional)",
+                "1  Shallot",
+                "Garnish  Coriander leaves",
+                "1  Egg noodles"
+            ],
+            "procedure": [
+                "Add oil in a wok, then add curry paste and cook on low heat until fragrant.",
+                "Add coconut cream and stir well simmering for 3-5 minutes.",
+                "Add chicken and seasoning.",
+                "Add coconut milk, stir well.",
+                "Boil some egg noodles and deep fry some egg noodle."
+            ]
+        },
+        {
+            "name": "massaman_curry_with_chicken",
+            "ingredient": [
+                "50 g.  Chicken, sliced",
+                "1-2 Tbs.  Massaman curry paste",
+                "50 g.  Potato, cut in cubes (boiled)",
+                "30 g.  Onion, cut in cubes",
+                "2  Tbs.  Cooking oil",
+                "1  Cup  Coconut cream",
+                "1/2  Cup  Coconut milk",
+                "1-2  Bay leaves",
+                "1-2  Cardamom seeds",
+                "1 Tbs.  Peanuts (roasted)",
+                "1/4 stock  Cinnamon",
+                "1  Tbs.  Palm sugar",
+                "1  Tbs.  Fish sauce",
+                "1  Tbs.  Tamarind juice"
+            ],
+            "procedure": [
+                "Put oil in wok and add 2 tbsp of massaman curry paste, stir vigorously until fragrant.",
+                "Add coconut cream and mix well, stir well until red oil separates on top.",
+                "Add chicken and stir well for about 1 minute.",
+                "Add coconut milk, potato,  onion  and seasoning with sugar, fish sauce, tamarind juice, and peanuts.",
+                "Stir constantly until chicken and onion are cooked.",
+                "Serve over rice and enjoy!"
+            ]
+        },
+        {
+            "name": "green_curry_with_chicken",
+            "ingredient": [
+                "60 g.  chicken, sliced",
+                "1-2 Tbs.  Green curry paste",
+                "1 each  Thai eggplant",
+                "5-8  Pea eggplants",
+                "1-2  Kaffir leaves, torn in half",
+                "8-10  Sweet basil leaves",
+                "1  Red chili",
+                "1/2 Cup  Coconut cream",
+                "1  Cup  Coconut milk",
+                "2 Tbs.  Cooking oil",
+                "\u00bd  Tbs.  Palm sugar",
+                "1  Tbs.  Fish sauce"
+            ],
+            "procedure": [
+                "Put oil in wok and add 2 tbsp of green curry paste, stir vigorously until fragrant.",
+                "Add coconut cream to mix and stir until fat separates (rises to top).",
+                "Add chicken and fry for about 2 minutes until chicken change color to be white.",
+                "Add coconut milk, eggplants, palm sugar, and fish sauce.",
+                "Then add sweet basil leaves, Kaffir leaves, Red chili and cook for a second."
+            ]
+        },
+        {
+            "name": "spring_rolls",
+            "ingredient": [
+                "1/4 C  Glass noodles",
+                "1 clove   Garlic",
+                "1/4 C  Bean sprouts",
+                "1/4 C  Chicken, minced",
+                "1/4 C  Cabbage, shredded",
+                "1/4 C  Carrots, shredded",
+                "4-5  Spring roll wrappers",
+                "1 T  Vegetable oil (for stir-fry)",
+                "2 T   Chicken stock",
+                "1 T  Oyster sauce",
+                "1 T  Soy sauce",
+                "1/2 T  Sugar",
+                "Pinch  White pepper powder"
+            ],
+            "procedure": [
+                "In wok, add 1 Tbs. vegetable oil and garlic. Fry until fragrant.",
+                "Add chicken keep stirred-fry until it cooked and chicken stock.",
+                "Add all vegetables, cook briefly. Add all the seasoning ingredients and add glass noodles at the end.",
+                "Place spring roll sheets on flat surface down and rough on top.",
+                "Place some filling on the spring roll wrapper, place wrapper over filling, fold in sides,  and then finish rolling wrapper.",
+                "Brush the finished edge of the wrapper with the glue.  As glue for the wrappers (mixed together in warm water): Wheat flour combine with water.",
+                "Deep fry in wok until golden brown.",
+                "Serve with sweet chili sauce."
+            ]
+        },
+        {
+            "name": "fish_cakes",
+            "ingredient": [
+                "100 G  Feather back fish or king fish, minced",
+                "1 t.  Egg  yolk",
+                "1 t.  Red curry paste",
+                "1-2 leaves  Kaffir lime leaves(remove midrib)and finely sliced",
+                "\u00bd  stalk  Long bean, diced in small pieces",
+                "3-5 leaves  Sweet basil",
+                "1  t.  Fish sauce",
+                "1  t.  Palm Sugar"
+            ],
+            "procedure": [
+                "In mixing bowl or mortar, combine red curry paste, fish sauce, egg yolk and sugar together.",
+                "Add minced fish and mix together well. Add finely sliced kaffir lime leaves, finely diced long  bean and sweet basil.  Prepare into fish cakes shape (small ball size).",
+                "In wok, add oil and deep fry fish cakes until golden brown.",
+                "Serve hot with thai sweet chili sauce and enjoy."
+            ]
+        },
+        {
+            "name": "chicken_satay",
+            "ingredient": [
+                "100 g  Chicken or pork slices",
+                "1 Tsp  Curry powder",
+                "\u00bd  tsp  Turmeric",
+                "1  Tsp  Soy sauce",
+                "\u00bd  Tbsp  Palm sugar",
+                "\u00bc  Cup  Coconut cream",
+                "1  Tbsp  Vegetable oil (for grilled)",
+                "Marinade chicken in mixture of all ingredients",
+                "\u00bd T  Red curry paste",
+                "1/2 T  Massaman curry paste",
+                "1 T  Tamarind paste",
+                "1 T  Sugar or palm sugar",
+                "2 T  Roasted peanuts (ground)",
+                "\u00bc C  Coconut cream",
+                "\u00bd C  Coconut milk"
+            ],
+            "procedure": [
+                "Stir the massaman curry paste and red curry paste in the oil until fragrant, using low heat.",
+                "Add coconut cream to mix and continue to heat until the fat separates (oil on top).",
+                "Add ground peanuts.",
+                "Add coconut milk and seasoning.",
+                "Reduce the sauce to a nice thick texture."
+            ]
+        },
+        {
+            "name": "thai_basil_chicken",
+            "ingredient": [
+                "1 egg",
+                "2 tablespoons of oil for frying",
+                "1 chicken breast (or any other cut of boneless chicken, about 200 grams)",
+                "5 cloves of garlic",
+                "4 Thai chilies",
+                "1 tablespoon oil for frying",
+                "1 teaspoon of oyster sauce",
+                "\u00bd teaspoon light soy sauce",
+                "1 splash of dark soy sauce",
+                "\u00bd teaspoon sugar",
+                "1 handful of Thai holy basil leaves"
+            ],
+            "procedure": [
+                "Heat about 2 tablespoons of vegetable oil in a wok or frying pan on high-medium heat.",
+                "When the oil is hot and sizzling, drop in the egg. Let it sizzle and bubble up, and at the same time, splash some of the hot oil onto the top of the egg (don't flip the egg, unless you really want to).",
+                "After the egg looks about right to your cooked likeness (I like mine runny), take it out, drain the excess oil, and put it on a plate for later.",
+                "Cut the chicken into small bite sized pieces.",
+                "Rinse and peel the garlic and chilies, and pound them in a mortar nad pestle (alternatively you can just mince them with a knife). They don't need to be super fine, you just want to bring out the oils and flavors from the garlic and chilies.",
+                "Pluck a good sized handful of holy basil leaves off the stems.",
+                "Now it's time to start cooking. Heat your wok on high heat, and add about 1 tablespoon of oil to the pan.",
+                "When the oil is hot, add the chilies and garlic. Stir fry them for about 20 seconds or so until they get really fragrant, but don't let them burn or get too dry.",
+                "Toss in your chicken. Keep stir frying continuously. At this stage you want to continue to stir and cook your chicken until it's just about fully cooked all the way through (depending on the size pieces of chicken and how hot your fire is, it should take about 2 - 3 minutes). If it starts to get dry, add just a tiny splash of water.",
+                "Add 1 teaspoon of oyster sauce, \u00bd teaspoon light soy sauce, \u00bd teaspoon sugar, and finally a splash of dark soy sauce. Keep stir frying for about another 30 seconds.",
+                "Grab a handful of holy basil, toss it into the pan, fold it into the chicken, and then immediately turn off the heat (if you're using an electric stove, you'll want to remove the pan from the burner). The holy basil really only needs to cook for about 5 seconds, and it will continue to wilt and cook from the existing heat of the chicken. This step is important because if you cook the basil for too long, it loses some of its glorious flavor and gets slightly chewy."
+            ]
+        },
+        {
+            "name": "thai_fried_rice_with_shrimp",
+            "ingredient": [
+                "1.5 cups of cooked Jasmine rice cooled (or day old rice works well too) - Or just estimate about 1 normal bowl full",
+                "About 5 - 10 shrimp, head peeled, but tail on",
+                "\u00bc of a big white onion (or \u00bd of a very small white onion, like I used)",
+                "1 leaf of Chinese broccoli (or any crisp green leafy vegetable)",
+                "2 cloves garlic",
+                "1 egg",
+                "\u00bd tablespoon soy sauce",
+                "\u00bd tablespoon oyster sauce",
+                "Pinch of sugar (optional)",
+                "1 tablespoon of oil for frying",
+                "5 Thai chilies",
+                "3 tablespoons of fish sauce",
+                "\u00bd of a lime"
+            ],
+            "procedure": [
+                "If you\u2019re using whole fresh shrimp like I did, first pinch off the head, and peel the outer shell of the shrimp, leaving only the tail on (that\u2019s Thai style). You can also devein them if you\u2019d like, but for small shrimp, to me it doesn\u2019t really matter.",
+                "Peel 2 cloves of garlic, and then just finely mince them.",
+                "Slice \u00bc of a sweet white onion into medium sized strips.",
+                "Finely dice about 3 - 4 green onions.",
+                "Take just 1 leaf of Chinese broccoli (kai-lan), slice it in half first along the spine, and then slice it into 1 centimeter sized strips.",
+                "Turn on your stove to medium high, heat up your wok (or frying pan), and add about 1 tablespoon of oil.",
+                "Once your oil is hot, add the garlic first, and stir fry continuously for about 15 seconds or so, until it gets nice and fragrant.",
+                "Next, toss in your shrimp, and fry for about 30 seconds - your shrimp should start to turn pink and feel more firm.",
+                "Add in a little less than \u00bd of your rice first. This is going to soak up all those delicious shrimp juices and oils and keep your rice nice and dry. Stir fry for about 10 more seconds - This is a little known trick to make good rice, so it remains nice and dry.",
+                "Scoot all your rice to one side of the pan, and then crack in the egg into the empty side.",
+                "Whirl the egg up, let it cook for a few seconds, and then start to mix it up with the rice and shrimp.",
+                "Keep stir frying for about 20 seconds until the egg is fully cooked, and then add in the rest of your rice, and give it a quick stir.",
+                "Add \u00bd tablespoon of soy sauce, \u00bd tablespoon of oyster sauce, just a pinch of sugar (optional), and continue stir frying your rice, making sure all the sauce get mixed in.",
+                "Then add your chopped Chinese broccoli and onions, and stir fry for another 30 seconds until the vegetables wilt, but they can still be crisp and not fully cooked.",
+                "Lastly, toss in your green onions, stir it a few more seconds, and it\u2019s ready.",
+                "Immediately dish your fried rice onto a plate.",
+                "Slice off a wedge of lime, and serve it on the plate next to the rice.",
+                "For the final touch, I like to sprinkle some freshly ground black pepper on top to give some extra flavor.",
+                "Add 3 tablespoons of fish sauce to a small bowl.",
+                "Slice about 5 Thai chilies (you can add more or less, up to you), and add them to the fish sauce.",
+                "Finally, I like it with a little squeeze of about \u00bd of a lime - but this is optional - and at many Thai restaurants it\u2019s only fish sauce and chilies.",
+                "That\u2019s is, give it a stir, and set it aside."
+            ]
+        },
+        {
+            "name": "khua_kling",
+            "ingredient": [
+                "500 g. minced pork, beef, or chicken (I used minced meat, but small slices of meat are common too)",
+                "3 tbsp. southern Thai curry paste",
+                "50 g. lemongrass (this was 2 stalks when I made this recipe)",
+                "1 red spur chili (this is not completely necessary, but if you add one, it will make your curry look really nice)",
+                "10 - 15 kaffir lime leaves (I probably used about \u00be of them while cooking, and used the other \u00bc to sprinkle on top at the end)",
+                "pinch of sugar (depending on how much you like and how much you want to )",
+                "Thai bird chilies (I like to slice up some red Thai bird chilies to sprinkle on top of my plate, just for the final spicy touch and for extra red color)"
+            ],
+            "procedure": [
+                "The first step is to take your lemongrass, slice off the bottoms of the stalks, tear off two or three of the tough outer layers, and then finely shave it. The finer you shave the lemongrass, the more flavor it will add, and the the easier it will be to chew.",
+                "To prepare the kaffir lime leaves, you want to grab about five or six leaves, which come as a pair, then I like to fold them over, so you\u2019ve got a nice layered sandwich of kaffir lime leaves. Slice off any of the big stems if there are any, and then finely slice them into thin strips.",
+                "I included the spur chili in this recipe mostly to give the khua kling (\u0e04\u0e31\u0e48\u0e27\u0e01\u0e25\u0e34\u0e49\u0e07) a beautiful red accent color, but it's not what gives the dish its spice - that comes from the curry paste. For the spur chili, just cut off the stem, slice the chili in half, and then slice it into thin diagonal strips. Set all those ingredients aside, and we'll come back to them later.",
+                "Turn on your stove to a medium high heat, heat up your wok or pan for a few seconds, and then add about 3 tbsp. of southern Thai curry paste (it may be kind of dry, but since this is a dry curry, you don't want to add any oil).",
+                "One of the tricks my wife taught me, so the curry paste doesn't burn, is to quickly add in just 1 spoon of meat into the curry paste and start to stir fry it. This will give the curry paste a little extra moisture, but it will still get that direct heat that you want, so the curry paste reaches its maximum flavor potential.",
+                "Fry the curry paste for 2 - 3 minutes, and then add in the rest of the meat. Your pan should be quite hot, and due to the dryness, it might start to stick to the bottom. So you want to really work the wok hard by scraping and getting all that good flavor off the bottom of the pan.",
+                "Stir fry the meat until it\u2019s broken into small minced pieces, and almost all the way cooked through, then toss in just a pinch of sugar, depending on how much you like (I used about \u00bd teaspoon, but I know some Thai cooks would use a whole spoon in their recipe).",
+                "Give it a quick stir, then add the lemongrass.",
+                "Quickly stir it, then toss in about \u00be of your shaved kaffir lime leaves. Stir fry for about 1 minute.",
+                "Just a few seconds before turning off your heat, add the sliced red spur chili, stir fry for a few more seconds, and turn off your heat, but keep frying for another minute or so.",
+                "Grab a bowl, and dish out your khua kling.",
+                "The final step is to take the remaining portion of your finely shaved kaffir lime leaves (of you can slice more if you used them all), along with a handful of sliced Thai bird chilies, and sprinkle them on top of your plate of khua kling ."
+            ]
+        },
+        {
+            "name": "squid_fried_with_shrimp_paste",
+            "ingredient": [
+                "250 grams squid",
+                "1 head garlic",
+                "1 tbsp peppercorns",
+                "3 stalks green onion",
+                "\u00bc tbsp shrimp paste",
+                "1 tbsp oyster sauce",
+                "3 tbsp oil for stir frying"
+            ],
+            "procedure": [
+                "This is a quick stir fry recipe, so the most important thing is to prepare all your ingredients before you get started.",
+                "Prepare the squid by removing the head, cutting out the eyes, and removing all the internal organs of the squid, and discarding the inner cuttlebone - which is like a piece of plastic. Rinse the squid in water, then slice the body of the squid into rings, and cut the tentacles into bite sized pieces.",
+                "Using a mortar and pestle, pound the black peppercorns for a few seconds until broken, but not powdery. Then add the garlic, and pound just for a few seconds to bruise the cloves.",
+                "For the green onions, cut off the roots, then slice into bite sized pieces about 5 cm in length.",
+                "Heat your wok or frying pan to high heat, then add oil to the pan.",
+                "Wait until the oil is hot, then toss in the black pepper and garlic, and stir fry for a few seconds.",
+                "Add the shrimp paste, and mix and mush into the oil, making sure it begins to dissolve and turn fragrant.",
+                "Once the garlic starts to turn golden brown, add the squid, and stir fry continuously for about a minute.",
+                "Season with oyster sauce, and continue stir frying.",
+                "Stir fry the squid for about 3 minutes altogether, making sure not to overcook it, or it will turn rubbery.",
+                "When the squid is fully cooked, the final step is to add the green onions, mix through once, then turn off the fire or heat of your stove. The green onions will still be slightly raw, but will continue to cook with the other hot ingredients.",
+                "Dish onto a plate immediately and serve."
+            ]
+        },
+        {
+            "name": "fried_fish_with_turmeric",
+            "ingredient": [
+                "2 small sized fish (about 1 kg. both together), I'm using a fish called \"pla daeng\" in Thai, which is a threadfrin bream",
+                "Few pinches of salt",
+                "250 g. garlic(it was about 7 full heads of garlic)",
+                "150 g. fresh turmeric root",
+                "1 liter of oil or so - enough to deep fry the fish"
+            ],
+            "procedure": [
+                "The first step is to prepare your garlic and turmeric. For the garlic, just peel all the cloves (and I used the shaking pot method, which actually works quite well when you need a ton of garlic like this), and set the peeled cloves aside.",
+                "For the turmeric, chop it into small pieces and set it aside.",
+                "Next step is to take your mortar and pestle and start grinding the garlic and turmeric. I had to do little by little in many batches and then mix it up in a bowl. It should only take about 5 or 10 minutes to pound - you're not going for a paste, but more just an oily mixture of crushed garlic and turmeric. Alternatively you could use a food processor or blender, just don't make it too smooth.",
+                "To prepare your fish, you want to make sure it's already de-scaled, and also that the insides have been removed - you can either do it yourself, or it might be easier to have the butcher do it when you buy it.",
+                "Take the fish, and you want to make three diagonal slices on the fillet of the fish, make sure you cut through the skin, but don\u2019t go too deep into the flesh.",
+                "Next you\u2019ll need a big bowl or basin and go ahead and put the fish in.",
+                "Take some salt, and give each of the fish a small sprinkle on both sides, and rub your hands over the salt to make sure it\u2019s spread evenly over the skin of the fish.",
+                "Grab the turmeric garlic mixture and start piling it onto the fish, all of it. You can gently massage the fish, mostly to make sure every part of the fish is coated in orange goodness. Also, take some of that turmeric and garlic and really stuff it into the slits we made in the side of the fish - this will ensure the flavor gets embedded in the fish.",
+                "Set aside the fish, and leave it to sit for about 10 - 15 minutes.",
+                "While you're waiting for the fish to marinate for a few minutes, you can prepare your oil for deep frying.",
+                "Turn on your stove to a medium heat and add about 1 liter of oil (however much you think you need) to your pot or wok.",
+                "We're going to fry the fish first, and then the garlic and turmeric, so first shake off all the garlic and turmeric from the fish, and leave it in the basin for later (this is because the fish will take longer to fry, so we'll fry the fish first, then the garlic and turmeric after).",
+                "Make sure your oil is fully hot, and then gently slide the fish into the oil carefully. They should immediately start to sizzle up and bubble.",
+                "Fry the fish for about 5 - 8 minutes on each side, but it will really depend on the size of your fish - so if your fish is bigger you'll need more time. While it fries, make sure you carefully scrape the bottom of your pan with a spatula to make sure your fish doesn't stick.",
+                "When your fish looks nice and golden brown on the bottom side, it's time to flip it over, and again, fry it for about 5 - 8 minutes on the other side.",
+                "Keep monitoring your fish closely, making sure it doesn't stick.",
+                "When the fish is brown and golden, and you think it's fully cooked through, take it out of the oil, and set it in a strainer to drain.",
+                "Now we're going to fry the garlic and turmeric. Keep your stove on a medium heat, a carefully drop in all the garlic and turmeric. It will probably bubble up, then settle down.",
+                "Slowly and carefully stir with your spatula, making sure nothing sticks and the garlic and turmeric is fries nice and evenly.",
+                "The garlic and turmeric will probably take about 5 - 10 minutes to fry. You want to make sure it turns dark golden in color, and you'll be able to feel the crispiness with your spatula.",
+                "When the garlic and turmeric is done, strain it all out, and let it drain for a few minutes.",
+                "Take your fried fish, put it on a plate, and then pile on all the fried garlic and turmeric."
+            ]
+        },
+        {
+            "name": "thai_grilled_chicken",
+            "ingredient": [
+                "2 whole chickens (mine were 1.8 kilos each)",
+                "Bamboo sticks or skewers",
+                "Charcoal",
+                "Grill",
+                "4 tablespoons soy sauce",
+                "1 tablespoon fish sauce",
+                "2 tablespoons palm sugar",
+                "1 tablespoon sweet dark soy sauce (you can use kecap manis)",
+                "8 tablespoons water",
+                "4 heads garlic (30 - 40 cloves)",
+                "2 stalks lemongrass",
+                "2.5 tablespoons black pepper corns",
+                "8 fresh coriander roots (or you can try the powder coriander roots)",
+                "1.5 tablespoons khao kua",
+                "1.5 tablespoons chili flakes",
+                "1 tablespoon of sugar",
+                "8 tablespoons tamarind juice (you can add more or less according to how strong it is and how sweet and sour you want your sauce)",
+                "Few sprigs of cilantro"
+            ],
+            "procedure": [
+                "For this recipe, I\u2019m going to cook 2 full chickens, together weighing in at 3.6 kilos. If you wanted, you could also make this recipe with 3 - 4 kilos of chicken pieces, or really, however much chicken you want.",
+                "For this gai yang (\u0e44\u0e01\u0e48\u0e22\u0e48\u0e32\u0e07) to be at its finest, it\u2019s best to marinate the chicken overnight and grill it the next day, but if you don't have the time, marinate the chicken for at least a few hours.",
+                "Peel about 4 bulbs of garlic, which should be about 30 - 40 cloves in all.",
+                "Thinly slice 2 stalks of lemongrass and cut off the roots of 8 stalks of coriander.",
+                "Now comes the hard part, pounding everything using a mortar and pestle (If you don\u2019t have a mortar and pestle you can blend the ingredients in a food processor (but I\u2019d really recommend you invest in a Thai style mortar and pestle).",
+                "Add small amounts of garlic, lemongrass, black peppercorns, and coriander roots to the mortar and pestle and pound them until the oils come out, and you have a coarse paste. Keep pounding until all the marinade ingredients are finished. You\u2019ll probably need to load the mortar a few times.",
+                "Put all the pounded marinade ingredients in a mixing bowl, stir them up, and add 4 tablespoons of light soy sauce, 1 tablespoon of dark soy sauce, 1 tablespoon of fish sauce, and 2 tablespoons of palm sugar. Mix everything together while adding about 8 tablespoons of water to the mixture. You should end up with a potent marinade that looks like a chunky garlicky sauce.",
+                "If you\u2019re using whole chickens, you'll want to butterfly cut them starting from the breast side down to the butt. Flatten the chickens out. This is going to prepare it for the grill.",
+                "In a big pan or mixing bowl start to rub the marinade on the chicken, making sure the garlic, herbs, and soy sauce go into all parts of the chicken. Rub down both chickens using all the marinade.",
+                "Cover the chickens and allow them to rest overnight. You might stir them a couple of times if you remember.",
+                "The next day, take out your chicken, and the first step is to light your charcoal. You want a low even heat, coals that aren't too hot, but a low and even.",
+                "Put the chicken on the grill and begin cooking!",
+                "Wait about 20 minutes or so (but monitoring them to make sure they don't burn), before making your first flip. You can baste the chicken with the extra marinade.",
+                "Cook the chicken on low heat for about 1.5 hours, until the chicken is cooked through to the bone and the skin is golden dark brown on the outside.",
+                "Take the chicken off the grill, and dismantle the bamboo supports.",
+                "If you have a Chinese cleaver, first cut the chicken in half from the neck to the butt, and from there cut off the drumstick, wing, and chop the rest of the chicken into strips.",
+                "Semi-dried tamarind pulp can usually be bought at the supermarket in a small block. To rehydrate it, get a couple tablespoons of hot water and start to work the tamarind into the hot water. This should turn it into a nice tamarind water sauce.",
+                "In a bowl, mix 1.5 tablespoons of khao kua (toasted sticky rice, recipe here), 1.5 tablespoons of chili flakes, 1 tablespoon of sugar, 3 tablespoons of fish sauce, and 8 tablespoons of tamarind juice.",
+                "Mix all of the ingredients together.",
+                "After mixing up the sauce, make sure you taste test. You're looking for the perfect sweet, sour, and salty combination. You might need to add more tamarind juice, more sugar, or more fish sauce to balance it out.",
+                "Top off your gai yang sauce with some chopped up cilantro."
+            ]
+        },
+        {
+            "name": "northern_thai_fish_and_spices_in_banana_leaf",
+            "ingredient": [
+                "500 - 600 grams of boneless filleted tilapia fish (I filleted 2 fish, but you could also buy pre-filleted)",
+                "Banana leaves for wrapping (substitute foil)",
+                "Toothpicks for fastening",
+                "For the chili paste:",
+                "2 lemongrass stalks",
+                "1 head garlic",
+                "5 Thai shallots",
+                "10 - 20 dry Thai chilies",
+                "3 - 5 fresh Thai bird eye chilies",
+                "\u00bd of the peel of a kaffir lime",
+                "\u00bd finger of turmeric (in the video I added a full finger, but it was too much)",
+                "\u00bd tsp salt",
+                "To mix in with the fish:",
+                "All the chili paste",
+                "1.5 tsp salt",
+                "To add to each packet:",
+                "sweet basil",
+                "lemon basil",
+                "kaffir lime leaves"
+            ],
+            "procedure": [
+                "Begin preparing the chili paste. Peel the garlic and shallots, and slice off the skin of the kaffir lime. Cut all the chili paste ingredients into small pieces, to make them easier to grind in a stone mortar and pestle.",
+                "In a stone mortar, first add \u00bd tsp of salt, then begin pounding the Thai dry chilies until you have chili flakes. Then add the fresh chilies, and keep on pounding. Next add the rest of the ingredients and keep pounding for about 15 minutes. You don't need it to be smooth like a Thai curry paste, but you're just looking for a coarse chunky chili paste. You could alternatively use a food processor or blender.",
+                "If you use whole fish, like I did, fillet the fish by slicing the meat off both sides. Then cut the fish into medium sized pieces, about \u00bd the size of a deck of cards.",
+                "In a mixing bowl, add the boneless fish (skin still on is best), add the pounded chili paste, and season with salt. Mix thoroughly so all the fish is coated with chili paste.",
+                "Tear or cut the banana leaf into 30 - 40 cm (1 foot or a little more) pieces. Prepare about 12 pieces.",
+                "Banana leaves have a strong side and a fragile side - keep this in mind. Take two of the banana leaf pieces, with the white dull side up (green shiny side down), and give the leaves a quick wipe with a wet cloth. Place one leaf down, then layer another on top of it, but turn it 180 degrees. So there should be a strong edge on one side, and a fragile edge on one side, but two leaves opposite of each other - one strong and one fragile side together.",
+                "Place a handful of fresh lemon basil and Thai sweet basil in the center of the leaf, then top with a couple pieces of fish and chili paste. Then tear a couple of kaffir lime leaves, and add them to the top of the fish.",
+                "To wrap it up, fold in one side, then the other side, then pull in the long ends, and fasten them at the top of the packet with a toothpick. It should be square or rectangular package.",
+                "On medium heat, grill each packet of aeb pla nin (\u0e41\u0e2d\u0e4a\u0e1a\u0e1b\u0e25\u0e32\u0e19\u0e34\u0e25) for about 15 minutes, flipping occasionally. The outside banana leaf wrapper will blister and blacken, but the fish inside will remain protected and absolutely delicious."
+            ]
+        },
+        {
+            "name": "pla_kapong_neung_manao",
+            "ingredient": [
+                "1 whole barramundi, about 1 - 2 kilos (or whatever size you can get), guts and gills already removed",
+                "5 stalks lemongrass, bottom half only, smashed, and cut into chunks",
+                "For the sauce / soup:",
+                "1 cup good chicken stock or fish stock (fresh or canned)",
+                "2 Tbsp finely chopped palm sugar",
+                "8 Tbsp lime juice",
+                "6 Tbsp fish sauce (here's my preferred fish sauce)",
+                "2 heads of garlic, chopped",
+                "Thai chilies to taste, finely chopped",
+                "20 - 25 sprigs cilantro, chopped",
+                "1- 2 stalks Chinese celery, cut into 1-inch pieces"
+            ],
+            "procedure": [
+                "Make sure your fish is scaled and gutted, and then score the fish with 3 diagonal incisions on each side of the fish. Cut off the top halves of the lemongrass, bruise, and stuff the lemongrass into the cavity of the fish. Steam the fish over high boiling water for about 10 - 15 minutes depending on the size of your fish.",
+                "In a saucepan, heat the chicken stock until it comes to a boil, and then toss in the sugar, reduce heat, and boil until the sugar is completely dissolved. Pour the mixture into a bowl and set aside.",
+                "Mince the garlic, chilies, and cilantro, and mix into the chicken stock soup, along with fish sauce and lime juice. Stir gently and then taste test. Make sure it's sour, and balanced with a hint of sweetness.",
+                "When the fish is fully steamed, transfer it to a serving platter (with edges to keep in the soup), garnish with a bed of Chinese celery, and place the fish on the platter. Gently scoop on all the sauce over the fish, putting most of the garlic and chilies on the top of the fish.",
+                "Make sure you eat with steamed rice!"
+            ]
+        },
+        {
+            "name": "thai_chicken_rice",
+            "ingredient": [
+                "Part 1: Chicken",
+                "1 whole chicken",
+                "\u00bd tbsp. salt",
+                "Water to cover chicken",
+                "Part 2: Rice",
+                "\u00bd kg. uncooked rice (I used high quality Thai jasmine rice, nice and fragrant)",
+                "About \u00bd liter of chicken stock broth (this was an estimate, really you should use about 1 cup of rice to 1.8 cups of chicken broth, or whatever ratio you normally use)",
+                "\u215b tbsp. salt",
+                "50 g. Thai garlic (regular garlic will work too)",
+                "Chicken oil for frying (or vegetable oil will work well too)",
+                "Part 3: Soup",
+                "All the rest of the chicken broth",
+                "\u00bd winter melon (about \u00bd kg or so) - you can also use daikon radish, or even nothing",
+                "Sprigs of cilantro",
+                "Salt to taste",
+                "Pepper to taste",
+                "Part 4: Sauce",
+                "50 g. ginger (old and strong ginger is best)",
+                "50 g. garlic (peel the garlic)",
+                "5 - 10 Thai bird chilies (depending on how spicy you want it)",
+                "1 stalk of cilantro roots",
+                "About 3 tbsp. of fermented soy bean sauce (you can add more later if not salty enough, but it can be quite salty), if you can find the Thai version, that will be best)",
+                "2 tbsp. white vinegar (normal distilled white vinegar, NOT apple cider or rice)",
+                "1 tbsp. sugar",
+                "\u00bd tbsp. dark soy sauce (kecap manis)",
+                "About \u00bc - \u00bd cup of chicken broth, but more if it's too salty or too thick",
+                "Garnish",
+                "Cucumbers to garnish",
+                "Cilantro to garnish"
+            ],
+            "procedure": [
+                "Part 1: Chicken",
+                "I\u2019m not sure how you will buy your chickens, but in Thailand, I went to the market, and bought full chickens, which come with head and all insides in-tact. If your chicken hasn\u2019t been de-gutted, you\u2019ll need to first carefully remove the entire organ system. You have to cut a slit in the back of the chicken, about 6 cm in length, and then reach in with your hand to remove all the organs. Be careful not to break the intestines or innards as it can cause the chicken to get bitter.",
+                "Once your chicken is de-gutted, stuff the feet of the chicken into the body cavity, and then twist the wings to the top of the chicken - this is just going to keep its limbs from flapping while being boiled.",
+                "Put enough water into a pot to cover your chicken, and then bring it to a boil (chickens not in yet). Once your water is boiling, reduce the heat to low.",
+                "Add the salt into the water and dissolve it.",
+                "Add the chickens to the boiling water and boil them for about 35 - 45 minutes, if you\u2019re only doing one chicken it might only take 30 - 40 minutes - so just keep an eye on it. If you have a meat thermometer, that could come in handy.",
+                "Once the chicken is firm and bouncy, you can remove the chicken from the pot, and lay it in a pan to cool.",
+                "That\u2019s it for the boiled chicken.",
+                "Part 2: Rice",
+                "For a proper Thai street food version of khao man gai (\u0e02\u0e49\u0e32\u0e27\u0e21\u0e31\u0e19\u0e44\u0e01\u0e48), you need to have some chicken oil. I made some by taking extra chicken skin, putting it into a hot wok for about 10 minutes and sizzling all the oil out of it - we probably had about 1.5 cups of chicken oil. However, if you don\u2019t want to use chicken oil, you can also just use any kind of vegetable oil.",
+                "Take the garlic, and blend it up, or use a food processor. Alternatively, you can just mince it up as well. In Thailand they just use the full cloves of garlic, without even taking off the skin.",
+                "Then take the minced garlic and deep fry it in either the chicken oil or vegetable oil. You want to fry it on a medium low heat, and stir it continually in the oil so the garlic doesn\u2019t stick. You want the garlic to become nice and golden brown, without burning or getting too dark. It should take about 5 - 8 minutes.",
+                "Once your garlic has been fried, strain and drain it.",
+                "Add your uncooked rice to a rice cooker pot, and first give it a good rinse and drain.",
+                "Add the fried garlic to the uncooked rice, along with the chicken broth (from cooking the chicken), and a bit of salt to taste.",
+                "Stir the uncooked rice and broth all around, even it out in the pot, and finally press cook on your rice cooker. Let the rice cooker work its magic.",
+                "When the rice finishes cooking, let it sit for a few minutes, and then open the cover and just fluff it up.",
+                "Part 3: Soup",
+                "Cut up your winter melon or daikon radish into about 5 cm pieces. For the winter melon, I first sliced off the skin, then cut it into quarters, removed the seeds, and sliced it into pieces.",
+                "Go over to your chicken broth, and try to skim off the top layer of oil, and discard.",
+                "Now bring your chicken broth to a boil, and then add in the pieces of winter melon or radish.",
+                "While your soup is boiling, you can go ahead and add in as much salt and pepper to your tasting. It shouldn\u2019t be too salty or too peppery, you\u2019re looking for just a soothing broth.",
+                "Boil your soup for about 15 minutes or so, until the winter melon or daikon radish is soft.",
+                "Final step for the soup is to turn off the heat, take a handful of cilantro, chop it up, and toss it in. Give that a quick stir, and it's ready.",
+                "Part 4: Sauce",
+                "For the sauce, just chop up the ginger, and then just throw it, with all of the ingredients into a blender or food processor.",
+                "You don\u2019t need to blend it up completely, it can be a little chunky (depending on your preference).",
+                "Transfer your blended sauce over to a pot or wok, and you want to just bring it to a boil for a few seconds - this is not really for any reason other than to kill any bacteria and make your sauce last longer (this sauce should last in the fridge for about 3 - 4 days, but of course it probably tastes the best when it\u2019s freshest).",
+                "Pour the sauce into a bowl and it\u2019s ready to be eaten."
+            ]
+        },
+        {
+            "name": "pan_seared_strip_steak",
+            "ingredient": [
+                "2 (12-ounce) lean, grass-fed New York strip steaks",
+                "1 teaspoon kosher salt",
+                "3/4 teaspoon black pepper",
+                "1 tablespoon olive oil",
+                "2 tablespoons butter",
+                "2 thyme sprigs",
+                "2 garlic cloves, crushed"
+            ],
+            "procedure": [
+                "Let steaks stand 30 minutes at room temperature.",
+                "Sprinkle salt and pepper evenly over steaks. Heat a large cast-iron skillet over high heat. Add oil to pan; swirl to coat. Add steaks to pan; cook 3 minutes on each side or until browned. Reduce heat to medium-low; add butter, thyme, and garlic to pan. Carefully grasp pan handle using an oven mitt or folded dish towel. Tilt pan toward you so butter pools; cook 1 1/2 minutes, basting steaks with butter constantly. Remove steaks from pan; cover loosely with foil. Let stand 10 minutes. Reserve butter mixture.",
+                "Cut steak diagonally across grain into thin slices. Discard thyme and garlic; spoon reserved butter mixture over steak."
+            ]
+        },
+        {
+            "name": "steaks_with_goulash_sauce&sweet_potato_fries",
+            "ingredient": [
+                "3 tsp rapeseed oil, plus extra for the steaks",
+                "250g sweet potatoes, peeled and cut into narrow chips",
+                "1 tbsp fresh thyme leaves",
+                "2 small onions, halved and sliced (190 g)",
+                "1 green pepper , deseeded and diced",
+                "2 garlic cloves, sliced",
+                "1 tsp smoked paprika",
+                "85 g cherry tomatoes,halved",
+                "1 tbsp tomato puree",
+                "1 tsp vegetable bouillon powder",
+                "2 * 125 g fillet steaks,rubbed with a little rapeseed oil",
+                "200 g bag baby spinach, wilted in a pan or the microwave"
+            ],
+            "procedure": [
+                "Heat oven to 240C/220C fan/gas 7 and put a wire rack on top of a baking tray. Toss the sweet potatoes and thyme with 2 tsp oil in a bowl, then scatter them over the rack and set aside until ready to cook.",
+                "Heat 1 tsp oil in a non-stick pan, add the onions, cover the pan and leave to cook for 5 mins. Take off the lid and stir - they should be a little charred now. Stir in the green pepper and garlic, cover the pan and cook for 5 mins more. Put the potatoes in the oven and bake for 15 mins.",
+                "While the potatoes are cooking, stir the paprika into the onions and peppers, pour in 150ml water and stir in the cherry tomatoes, tomato pure\u0301e and bouillon. Cover and simmer for 10 mins.",
+                "Pan-fry the steak in a hot, non-stick pan for 2-3 mins each side depending on their thickness. Rest for 5 mins. Spoon the goulash sauce onto plates and top with the beef. Serve the chips and spinach alongside."
+            ]
+        },
+        {
+            "name": "steak_with_mushroom_puff_tartlets",
+            "ingredient": [
+                "100g puff pastry",
+                "1 tbsp olive oil, plus a little extra",
+                "1 shallot, finely chopped",
+                "100 g chestnut mushroom, chopped",
+                "1 tsp chopped thyme, plus springs to decorate",
+                "3 tbsp port or madeira",
+                "1 tbsp double cream",
+                "2 fillet steaks,about 100 g / 5 oz each"
+            ],
+            "procedure": [
+                "Heat oven to 200C/fan 180C/gas 6. Roll out the pastry to about the thickness of a \u00a31 coin, then cut out 2 x 12cm circles using a cutter, or by scoring around a saucer. Score a circle 2cm in from the edge, then prick the pastry inside the border. Lift onto a baking tray, then bake for 20-25 mins or until golden and puffed. Press the risen middles down a little, ready for the filling. Can be made a day ahead, then reheated in a hot oven.",
+                "Heat the oil in a pan, add the shallots, then fry until softened. Add the mushrooms and thyme, then fry until mushrooms are softened and any liquid almost gone. Add the port or Madeira, then bubble for 2 mins. Add the cream, simmer for 1 min more until the sauce is slightly thickened, then set aside.",
+                "Reheat the tartlets. Warm the mushroom mixture over a low heat. Set the tartlets on warm plates, then spoon over the mushroom mixture. Sit the fillet steaks on top with a sprig of thyme. Serve with Balsamic spinach and Oven saut\u00e9 potatoes (see below)."
+            ]
         }
     ],
-    "V": "0.7.0"
+    "V": "0.5.0"
 }

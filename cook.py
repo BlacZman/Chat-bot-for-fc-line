@@ -47,10 +47,16 @@ class Cook:
         except:
             return "Error in splitting the text"
         self.id = int(id)
+        try:
+            self.token[0] = self.token[0].lower()
+            self.token[1] = self.token[1].lower()
+            self.token[2] = self.token[2].lower()
+            self.token[3] = self.token[3].lower()
+        except:
+            pass
         if self.token[0] != "cook":
             return 1
         else:
-            print(self.id)
             self.checkIDinDatabase()
             return self.checkCommand()
 
@@ -93,6 +99,8 @@ class Cook:
                     listofall = ""
                     for x in txt:
                         listofall += "- " + x['name'] + "\n"
+                    if listofall == "":
+                        listofall = "None"
                     return listofall
                 elif self.token[2] == 'all':
                     txt = self.recipeCus(1)
@@ -432,7 +440,7 @@ class Cook:
                                 json.dump(txt,files,indent=4)
                                 files.truncate()
                                 files.close()
-                                return "Syntax warning: Empty infomation\nEmpty '{}' is created".format(self.token[2])
+                                return "'{}' is created".format(self.token[2])
                             
                             
                         elif self.token[3] == 'procedure':
@@ -461,7 +469,7 @@ class Cook:
                                 json.dump(txt,files,indent=4)
                                 files.truncate()
                                 files.close()
-                                return "Syntax warning: Empty infomation\nEmpty '{}' is created".format(self.token[2])
+                                return "'{}' is created".format(self.token[2])
                     except:
                         i=0
                         for x in txt['storage']:
@@ -472,7 +480,7 @@ class Cook:
                         json.dump(txt,files,indent=4)
                         files.truncate()
                         files.close()
-                        return "Syntax warning: Empty [ingredient/procedure]\nEmpty '{}' is created".format(self.token[2])
+                        return "'{}' is created".format(self.token[2])
 
                 elif mode == 1: # Edit mode |cook edit [name] [ingredient/procedure] [number] [new info]
                     for x in txt['storage']:
@@ -681,4 +689,4 @@ class Cook:
 
 
     def helpCommand(self):
-        return "list of command:\n*cook [method]* --> access to cooking method\n\n*[method]*:\n*help* --> list all cook command in detail\n*list [cmd]* --> if [cmd] is 'None' then default\n*default* -list all default recipe,\n*custom*  -list all custom recipe,\n*all*     -list all recipe\n\n*list [name] [ingredient/procedure]* --> *[name]* -name of recipe\n**[ingredient/procedure]* -ingredient/procedure in recipe\n**if there is None then show all ingredient and procedure\n\n*add [name] [ingredient/procedure]* [info1,info2, ...]*--> add custom recipe for 'each' user\n*[name]* --> ***MUST BE NO WHITESPACE IN [name]*** name of recipe\n*[ingredient/procedure]* ***OPTIONAL***--> add infomation to one of them\n*[info1,info2, ...]* ***OPTIONAL***--> infomation about recipe\n*CANNOT have whitespace in infomation* **ONLY IN [in1,in 2,in3] FORMATION**\n\n*edit [name] [ingredient/procedure]* *[number] [new info]*--> edit custom recipe for 'each' user\n*[name]* --> ***MUST BE NO WHITESPACE IN [name]*** name of recipe\n*[ingredient/procedure]* --> add infomation to one of them\n*[number]* -->  0 is append\n-->1-n is number represent position in database\n\n*del, delete [name] [ingredient/procedure] [number]* --> delete custom recipe using name]\n*[name]* --> ***MUST BE NO WHITESPACE IN [name]*** name of recipe\n*[ingredient/procedure]* ***OPTIONAL*** -->\n*[number]* --> 1-n is number represent position in database\n\n*ver* --> show version of the cooking(for what?)"
+        return "list of command:\n*cook [method]* --> access to cooking method\n\n*[method]*:\n*help* --> list all cook command in detail\n*list [cmd]* --> if [cmd] is 'None' then default\n*-default* -list all default recipe,\n*-custom*  -list all custom recipe,\n*-all* -list all recipe\n\n*list [name] [ingredient/procedure]* --> *[name]* -name of recipe\n*[ingredient/procedure]* -ingredient/procedure in recipe\nif there is None then show all ingredient and procedure\n\n*add [name] [ingredient/procedure] [info1,info2, ...]* --> add custom recipe for 'each' user\n*[name]* --> ***MUST BE NO WHITESPACE IN [name]*** name of recipe\n*[ingredient/procedure]* ***OPTIONAL***--> add infomation to one of them\n*[info1,info2, ...]* ***OPTIONAL***--> infomation about recipe\n*CANNOT have whitespace in infomation* **ONLY IN [in1,in 2,in3] FORMATION**\n\n*edit [name] [ingredient/procedure] [number] [new info]* --> edit custom recipe for 'each' user\n*[name]* --> ***MUST BE NO WHITESPACE IN [name]*** name of recipe\n*[ingredient/procedure]* --> add infomation to one of them\n*[number]* -->  0 is append\n-->1-n is number represent position in database\n\n*del, delete [name] [ingredient/procedure] [number]* --> delete custom recipe using name]\n*[name]* --> ***MUST BE NO WHITESPACE IN [name]*** name of recipe\n*[ingredient/procedure]* ***OPTIONAL*** -->\n*[number]* --> 1-n is number represent position in database\n\n*ver* --> show version of the cooking(for what?)\n**Example**:\n*cook list custom*\nMeaning show all user recipe\n*cook list steak*\nMeaning show recipe called 'steak' within database\n*cook add prawnfry*\nMeaning add recipe called 'prawnfry' to database\n*cook edit prawnfry ingredient 0 GoodJob*\nMeaning edit recipe called 'prawnfry' by adding 'GoodJob' as ingredient\n*cook del prawnfry*\nMeaning delete 'prawnfry' recipe and its infomation entirely\n*cook del prawnfry procedure 3*\nMeaning delete infomation on 'prawnfry' recipe in procedure at third position\n"
