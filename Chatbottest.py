@@ -159,9 +159,9 @@ class Somchai(Client):
             else:
                 ckas = Cook()# Create Cook object
                 try:
-                    newAc = obj['result']['action']
+                    newAc = obj['result']['metadata']['intentName']
                 except:
-                    newAc = 
+                    newAc = obj['result']['action']
                 if newAc == "cook.list.all" or newAc == "cook.list.custom" or newAc == "cook.list.default":
                     linkCk = ckas.start(reply,author_id)
                 else:
